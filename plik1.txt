@@ -1,0 +1,2 @@
+to jest 1 plik 1 pliku
+zmiana w pliku numer 1
